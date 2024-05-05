@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F63B3B</color>
+    <color name="gray">#E6DFDF</color>
+    <color name="medium_gray">#868686</color>
+    <color name="track_title_color">#232323</color>
+    <color name="player_controls_bg">#512DA8</color>
+</resources>

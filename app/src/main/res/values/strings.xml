@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    //Menu titles
+    <string name="welcome_menu_search">Search</string>
+    <string name="welcome_menu_favorite">Favorites</string>
+    <string name="welcome_menu_more_options">More options</string>
+    <string name="permission_popup_msg">This app required storage permission to access the audio features.</string>
+    <string name="permission_required">Permission required</string>
+    <string name="permission_popup_ok">Ok</string>
+    <string name="permission_popup_setting">Settings</string>
+    <string name="search_your_audio">Search your audio</string>
+    <string name="song_duration_timer">0:00</string>
+    <string name="music_player">Music Player</string>
+    <string name="favourites">Favourites</string>
+    <string name="loading">Loading...</string>
+    <string name="library">Library</string>
+    <string name="no_items">No items</string>
+
+    //a11y
+    <string name="a11y_drawer_home_menu">Home menu</string>
+    <string name="a11y_song_thumbnail">Song thumbnail</string>
+    <string name="a11y_play_pause_btn">Play</string>
+    <string name="a11y_play_next_btn">Next</string>
+    <string name="a11y_play_previous_btn">Previous</string>
+    <string name="a11y_favourite">Favourite</string>
+    <string name="a11y_empty_image_placeholder">Empty image placeholder</string>
+
+</resources>
